@@ -14,4 +14,6 @@ VSO Localization is coming!!!!
 
 Let's localized it
 
+Let's try open localization service now!
+
 
