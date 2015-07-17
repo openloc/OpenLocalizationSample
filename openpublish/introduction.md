@@ -6,6 +6,7 @@ ms.topic: Introduction
 
 # Introduction
 
+Let's do a demo for open localization !
 
 
 
